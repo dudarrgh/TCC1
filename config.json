@@ -1,0 +1,7 @@
+{
+  "architectures": [
+    "StableDiffusionXLPipeline"
+  ],
+  "model_type": "lora",
+  "task": "text-to-image"
+}
